@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0007141c-11a7-4a4c-9c55-f1e0fe1e583b": {
+      "ProjectGuid": "0007141c-11a7-4a4c-9c55-f1e0fe1e583b",
+      "DisplayName": "RocketGame",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
